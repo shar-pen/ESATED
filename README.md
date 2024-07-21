@@ -15,5 +15,5 @@ This repository consists of 4 folders, as.
 
 We prefer using Jupiter notebook, so experiment codes are mostly *.ipynb files. 
 
-The self-collected dataset is too big to be uploaded to github, so we store it on google drive, at https://drive.google.com/file/d/1ZFf-hjUMrFqHqP-mxPFwZ_nJgWysUfWd/view?usp=drive_link.
+The self-collected dataset is too big to be uploaded to github, so we store it on google drive, at https://drive.google.com/file/d/1ZFf-hjUMrFqHqP-mxPFwZ_nJgWysUfWd/view?usp=drive_link and https://drive.google.com/file/d/1m7mPsoojRqQ6rwQecvQFTqF4PWR_vw0I/view?usp=sharing.
 
